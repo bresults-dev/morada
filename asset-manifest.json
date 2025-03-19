@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/morada/static/css/main.45d43d9f.css",
+    "main.js": "/morada/static/js/main.8a11101d.js",
+    "static/media/BGSecao06.png": "/morada/static/media/BGSecao06.4b285af29dbb22534bba.png",
+    "static/media/BGSecao05Mobi.png": "/morada/static/media/BGSecao05Mobi.513dce2c02513e3888cb.png",
+    "static/media/BGSecao2.png": "/morada/static/media/BGSecao2.ea70957d154a9674b3c1.png",
+    "static/media/BGSecao2Mobi.png": "/morada/static/media/BGSecao2Mobi.60c891a9f5cca82176c9.png",
+    "static/media/BGSecao04.png": "/morada/static/media/BGSecao04.6b3afa0f45d58191b506.png",
+    "static/media/BGSecao030.png": "/morada/static/media/BGSecao030.694e111ecd781462129c.png",
+    "static/media/BGSecao04Mobi.png": "/morada/static/media/BGSecao04Mobi.e8538164deaad187c5b5.png",
+    "static/media/BGSecao1.png": "/morada/static/media/BGSecao1.96108ad06f61a9ce9f76.png",
+    "static/media/BGSecao1Mobi.png": "/morada/static/media/BGSecao1Mobi.d3719d1a00e38ff1e518.png",
+    "static/media/BGSecao03Mobi2.png": "/morada/static/media/BGSecao03Mobi2.baaed689cdb4ed8dc0c8.png",
+    "static/media/roboto-all-400-normal.woff": "/morada/static/media/roboto-all-400-normal.b5a0a0df312d3423493b.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/morada/static/media/roboto-latin-400-normal.176f8f5bd5f02b3abfcf.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/morada/static/media/roboto-cyrillic-ext-400-normal.dd55ea0a2e90d5d86e15.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/morada/static/media/roboto-latin-ext-400-normal.dcc07bcfcd475f34f20b.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/morada/static/media/roboto-cyrillic-400-normal.3605d18d8a4ce5bd39c3.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/morada/static/media/roboto-greek-400-normal.352cc77aaed5208ce13c.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/morada/static/media/roboto-vietnamese-400-normal.52cebac009baf5592e7d.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/morada/static/media/roboto-greek-ext-400-normal.bc7ace6e50c7d9d4d959.woff2",
+    "index.html": "/morada/index.html",
+    "main.45d43d9f.css.map": "/morada/static/css/main.45d43d9f.css.map",
+    "main.8a11101d.js.map": "/morada/static/js/main.8a11101d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d43d9f.css",
+    "static/js/main.8a11101d.js"
+  ]
+}
