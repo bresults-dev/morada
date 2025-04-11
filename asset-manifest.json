@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/morada/static/css/main.45d43d9f.css",
-    "main.js": "/morada/static/js/main.65a568a5.js",
+    "main.js": "/morada/static/js/main.59ba9c1a.js",
     "static/media/BGSecao06.png": "/morada/static/media/BGSecao06.4b285af29dbb22534bba.png",
     "static/media/BGSecao05Mobi.png": "/morada/static/media/BGSecao05Mobi.513dce2c02513e3888cb.png",
     "static/media/BGSecao2.png": "/morada/static/media/BGSecao2.ea70957d154a9674b3c1.png",
@@ -22,10 +22,10 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/morada/static/media/roboto-greek-ext-400-normal.bc7ace6e50c7d9d4d959.woff2",
     "index.html": "/morada/index.html",
     "main.45d43d9f.css.map": "/morada/static/css/main.45d43d9f.css.map",
-    "main.65a568a5.js.map": "/morada/static/js/main.65a568a5.js.map"
+    "main.59ba9c1a.js.map": "/morada/static/js/main.59ba9c1a.js.map"
   },
   "entrypoints": [
     "static/css/main.45d43d9f.css",
-    "static/js/main.65a568a5.js"
+    "static/js/main.59ba9c1a.js"
   ]
 }
